@@ -95,6 +95,8 @@ print(f"The correct codeword is : " + " " .join(map(str,add)))
 
 ```
 # Output Waveform
+![WhatsApp Image 2025-09-22 at 13 53 03_80252ba8](https://github.com/user-attachments/assets/05f30ad3-17a6-4515-a6ed-f40dea30142e)
+![WhatsApp Image 2025-09-22 at 13 53 03_94191f4b](https://github.com/user-attachments/assets/44874f42-7f6e-4c2a-8479-32a69849f5d8)
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/86a1ee00-697b-4a3e-b75c-d2a16b6bdd9f" />
 
